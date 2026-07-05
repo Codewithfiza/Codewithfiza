@@ -75,8 +75,7 @@ graph LR
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Codewithfiza&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=E5E7EB&icon_color=06B6D4" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codewithfiza&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=E5E7EB&langs_count=8" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithfiza&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8" width="90%" />
 </div>
 
 <div align="center">
