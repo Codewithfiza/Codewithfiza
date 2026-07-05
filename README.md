@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=6B7A3D&height=200&section=header&text=Hi,%20I'm%20Fiza&fontSize=42&fontColor=F4F1E8&animation=fadeIn" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Codewithfiza&color=6B7A3D&style=flat&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:3D4A1F,100:8A9A5B&height=200&section=header&text=Hi,%20I'm%20Fiza&fontSize=42&fontColor=F4F1E8&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Codewithfiza">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6B7A3D&center=true&vCenter=true&width=650&lines=Self-Taught+Frontend+Dev+%E2%86%92+Full-Stack+in+Progress;Currently+Deep+in+React;PSX+Investor+%26+Forex+Trader+on+the+Side" alt="Typing SVG" />
