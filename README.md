@@ -80,10 +80,6 @@ graph LR
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithfiza&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6" width="90%" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewithfiza&bg_color=00000000&color=8B5CF6&line=06B6D4&point=6D28D9&hide_border=true" width="90%" />
 </div>
 
