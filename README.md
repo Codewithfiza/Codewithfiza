@@ -33,9 +33,12 @@ graph LR
     B --> C[Tailwind ✅]
     C --> D[JavaScript ✅]
     D --> E[Git & GitHub ✅]
-    E --> F[React 🟡]
-    F --> G[WordPress ⬜]
-    G --> H[Backend ⬜]
+    E --> F[React✅ ]
+    F --> F[React redux toolkit✅ ]
+    G --> F[GSAP and framer✅ ]
+    H --> F[Nodejs (learning) ]
+    I --> G[WordPress ⬜]
+    J --> H[Backend ⬜]
 ```
 
 </div>
