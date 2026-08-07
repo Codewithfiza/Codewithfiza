@@ -34,11 +34,11 @@ graph LR
     C --> D[JavaScript ✅]
     D --> E[Git & GitHub ✅]
     E --> F[React✅ ]
-    F --> F[React redux toolkit✅ ]
-    G --> F[GSAP and framer✅ ]
-    H --> F[Nodejs (learning) ]
-    I --> G[WordPress ⬜]
-    J --> H[Backend ⬜]
+    F --> G[React redux toolkit✅ ]
+    G --> H[GSAP and framer✅ ]
+    H --> I[Nodejs (learning) ]
+    I --> J[WordPress ⬜]
+    J --> K[Backend ⬜]
 ```
 
 </div>
