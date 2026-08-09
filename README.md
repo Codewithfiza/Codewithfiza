@@ -22,26 +22,9 @@ I started with a blank HTML file and a lot of curiosity. Since then I've taught 
 
 <br/>
 
-### 🧭 My Full-Stack Journey
 
-<div align="center">
 
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#8B5CF6', 'primaryTextColor': '#fff', 'primaryBorderColor': '#6D28D9', 'lineColor': '#06B6D4', 'fontSize': '14px'}}}%%
-graph LR
-    A[HTML ✅] --> B[CSS ✅]
-    B --> C[Tailwind ✅]
-    C --> D[JavaScript ✅]
-    D --> E[Git & GitHub ✅]
-    E --> F[React✅ ]
-    F --> G[React redux toolkit✅ ]
-    G --> H[GSAP and framer✅ ]
-    H --> I[Nodejs (learning) ]
-    I --> J[WordPress ⬜]
-    J --> K[Backend ⬜]
-```
-
-</div>
+ 
 
 | Stage | Status |
 |---|---|
