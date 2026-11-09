@@ -1,80 +1,36 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20Fiza&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
+# Fiza Hassan
 
-<a href="https://github.com/Codewithfiza">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Self-Taught+Frontend+Dev+%E2%86%92+Full-Stack+in+Progress;Currently+Deep+in+React;Building+Things+I'd+Actually+Want+to+Use" alt="Typing SVG" />
-</a>
+Web developer building full-stack web apps with React, Next.js and MongoDB.
 
-<img src="https://komarev.com/ghpvc/?username=Codewithfiza&color=8b5cf6&style=flat&label=Profile+Views" />
-</div>
+I build portfolios, landing pages, e-commerce stores and blogs for clients, and I'm open to freelance work.
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=12" width="100%"/>
+## Projects
 
-### 👩‍💻 About Me
+**Scriptorium** — Full-stack bookstore
+Next.js and MongoDB e-commerce app with authentication and authorization, a complete admin dashboard to manage books, stock, orders and offers, and a checkout flow with stock logic.
+[Live site](https://book-store-rho-topaz.vercel.app/) · [Admin panel](https://book-store-rho-topaz.vercel.app/admin) · [Code](https://github.com/Codewithfiza/book-store)
+Viewer login credentials for the admin panel are on my portfolio.
 
-I started with a blank HTML file and a lot of curiosity. Since then I've taught myself CSS, Tailwind, and JavaScript, picked up Git & GitHub along the way, and I'm currently deep in **React** — working toward a full **MERN stack** skill set.
+**Personal Portfolio**
+My own portfolio site, built with React.
+[Live site](https://fiza-hassan-portfolio.vercel.app/)
 
-- 🎯 **Goal:** Full-Stack Web Developer
-- 📍 Based in Lahore, Pakistan
-- 🎓 Completing an ADP in Computer Science at Superior University
-- 🔭 Right now: React — Phase 2 of a 10-phase self-built roadmap
-- 🌱 Learning in public — every project ships with a README and a writeup
+**Shakeel Mehmood Portfolio** — Client work
+Portfolio for a 3D/2D artist, with an orbiting tech-icon hero animation, Firebase auth and database, and Cloudinary for media.
+[Live site](https://shakeel-mehmood.netlify.app/)
 
-<br/>
+## Stack
 
+React · Next.js · JavaScript · Tailwind CSS · MongoDB · Authentication and authorization · REST APIs · Git
 
+## Open to freelance work
 
- 
+- Portfolio websites
+- Landing pages
+- E-commerce stores
+- Blog websites
 
-| Stage | Status |
-|---|---|
-| HTML | ✅ Done |
-| CSS | ✅ Done |
-| Tailwind CSS | ✅ Done |
-| JavaScript (ES6+) | ✅ Done |
-| Git & GitHub | ✅ Done |
-| React.js | 🟡 In progress — Phase 2 of 10 |
-| WordPress | ⬜ Up next |
-| Backend — Node.js / Express / MongoDB | ⬜ Planned |
+## Contact
 
-<br/>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,wordpress,nodejs,express,mongodb,figma,vscode&theme=light" />
-</div>
-
-<br/>
-
-### 📌 Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| **ReelFind** | JavaScript, TMDB API | Movie discovery app — browse and search films using live data from The Movie Database |
-| **Shakeel Mehmood Portfolio** | HTML/CSS/JS, Firebase | Client project for a 3D/2D designer — orbiting tech-icon hero animation, Firebase Auth + Realtime DB, Cloudinary. [Live site →](https://bright-cheesecake-fd8477.netlify.app) |
-| **GitHub User Finder** | JavaScript, REST API | Looks up GitHub profiles using the GitHub API |
-| **Kanban Board** | Vanilla JS | Drag-and-drop task board — final vanilla JS project before moving to React |
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codewithfiza&hide_border=true&background=00000000&ring=8B5CF6&fire=06B6D4&currStreakLabel=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=8B98A8" width="90%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codewithfiza&bg_color=00000000&color=8B5CF6&line=06B6D4&point=6D28D9&hide_border=true" width="90%" />
-</div>
-
-<br/>
-
-### 🔗 Connect
-
-<div align="center">
-<a href="https://linkedin.com/in/fiza-hassan-13730240a/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Codewithfiza"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6D28D9&height=150&section=footer" width="100%"/>
+Email: shfiza678@gmail.com
+LinkedIn: [linkedin.com/in/fiza-hassan-13730240a](https://linkedin.com/in/fiza-hassan-13730240a)
