@@ -37,10 +37,3 @@ React · Next.js · JavaScript · Tailwind CSS · MongoDB · Authentication and 
 Email: shfiza678@gmail.com
 LinkedIn: [linkedin.com/in/fiza-hassan-13730240a](https://linkedin.com/in/fiza-hassan-13730240a)
 
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codewithfiza/Codewithfiza/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Codewithfiza/Codewithfiza/output/github-snake.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Codewithfiza/Codewithfiza/output/github-snake.svg" />
-</picture>
